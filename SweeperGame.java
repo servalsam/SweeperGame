@@ -7,7 +7,7 @@
 /**
  * A SweeperGame class that runs the underlying functions for Mr. Schussler's SimpleSweeper.java.
  *
- * @author Samuel Wainright swain91@uw.edu
+ * @author Samuel Servane swain91@uw.edu
  * @version 8 February 2018
  */
 import java.util.Random;
